@@ -1,4 +1,4 @@
-# Javascript_Advanced
+
 # 🚀 Advanced JavaScript Questions Checklist
 
 A comprehensive collection of advanced JavaScript questions covering all essential topics for senior developers and technical interviews.
